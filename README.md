@@ -1,6 +1,6 @@
 # Rick & Morty Wiki App
 
-Check out your favourite charactes and episodes thanks to the free api provided at https://rickandmortyapi.com/.
+Check out your favourite characters and episodes thanks to the free api provided at https://rickandmortyapi.com/.
 
 The app offers simple features like searching through hundreds of characters, finding out details you never knew about them and seeing the chronological order of the episodes.
 
